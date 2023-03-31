@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "8lwJbqMMxCwnbx6QrJwQydzEssCCIFgxAViImgdXeXNvkuoroRAZlnInDsipJiwDKGuX1oMweFB0z6H31bSTPA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\victo\\OneDrive\\Área de Trabalho\\MAIN\\Udemy\\RabbitMq\\ProducerConsumeRabbitMq\\Producer\\Producer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\victo\\.nuget\\packages\\rabbitmq.client\\6.5.0\\rabbitmq.client.6.5.0.nupkg.sha512",
+    "C:\\Users\\victo\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\victo\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512",
+    "C:\\Users\\victo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

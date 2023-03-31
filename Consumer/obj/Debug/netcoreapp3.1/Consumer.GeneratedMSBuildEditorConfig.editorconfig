@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Consumer
+build_property.ProjectDir = C:\Users\victo\OneDrive\Área de Trabalho\MAIN\Udemy\RabbitMq\ProducerConsumeRabbitMq\Consumer\
